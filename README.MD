@@ -2,6 +2,14 @@
 
 Este é um projeto de um chat semelhante ao WhatsApp, desenvolvido com **JavaScript** para o backend e frontend. O objetivo é fornecer uma experiência de mensagens em tempo real com funcionalidades básicas de um aplicativo de chat moderno.
 
+
+### Link Deploy
+```sh
+https://chat-app-frontend-vfcu.onrender.com/
+```
+
+
+
 ## Tecnologias Utilizadas
 
 - **Frontend:** React.js / HTML, CSS, JavaScript
@@ -52,4 +60,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** e env
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
-**Desenvolvido por [Seu Nome](https://github.com/DevNataVaz)** 🚀
+**Desenvolvido por [Natã Vaz](https://github.com/DevNataVaz)** 🚀
