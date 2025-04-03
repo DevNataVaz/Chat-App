@@ -32,7 +32,7 @@ https://chat-app-frontend-vfcu.onrender.com/
 
 ### 1. Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/chat-bot.git
+git clone https://github.com/devnatavaz/chat-bot.git
 cd chat-bot
 ```
 
